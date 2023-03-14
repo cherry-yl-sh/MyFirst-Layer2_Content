@@ -1,6 +1,7 @@
 # Table of contents
 
-* [1.1 区块链提高性能的尝试](README.md)
+* [Readme](README.md)
+* [1.1 区块链提高性能的尝试](1.1-qu-kuai-lian-ti-gao-xing-neng-de-chang-shi.md)
 * [1.2 区块链的不可能三角](1.2-qu-kuai-lian-de-bu-ke-neng-san-jiao.md)
 * [1.3 纵向扩展：Layer2](1.3-zong-xiang-kuo-zhan-layer2.md)
 * [2.1 状态通道（原型机：状态通道）](<README (1).md>)
