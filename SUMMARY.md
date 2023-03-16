@@ -14,7 +14,7 @@
 * [3.4 Zero-Knowledge Rollup](3.4-zero-knowledge-rollup.md)
 * [3.5 Rollup实操（待交互界面完成后精简）](3.5-rollup-shi-cao-building.md)
 * [3.6 ZK技术原理 STARK vs SNARK](3.6-ji-shu-yuan-li-stark-vs-snark-building.md)
-* [3.7 ZK-VM vs ZK-EVM （Building）](3.7-zk-vm-vs-zk-evm-building.md)
+* [3.7 ZK发展路线 ZK-VM vs ZK-EVM](3.7-zk-vm-vs-zk-evm-building.md)
 * [4.1 其它解决方案：Validium和Volition](4.1-qi-ta-jie-jue-fang-an-validium-he-volition.md)
 * [4.2 Deneb更新与Layer2](4.2-deneb-geng-xin-yu-layer2.md)
 * [4.3 账户抽象与大规模应用 （Building）](4.3-zhang-hu-chou-xiang-yu-da-gui-mo-ying-yong-building.md)
