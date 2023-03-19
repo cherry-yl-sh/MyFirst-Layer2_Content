@@ -17,4 +17,4 @@
 * [3.7 ZK发展路线 ZK-VM vs ZK-EVM](3.7-zk-vm-vs-zk-evm-building.md)
 * [4.1 其它解决方案：Validium和Volition](4.1-qi-ta-jie-jue-fang-an-validium-he-volition.md)
 * [4.2 Deneb更新与Layer2](4.2-deneb-geng-xin-yu-layer2.md)
-* [4.3 账户抽象与大规模应用 （Building）](4.3-zhang-hu-chou-xiang-yu-da-gui-mo-ying-yong-building.md)
+* [4.3 账户抽象与大规模应用](4.3-zhang-hu-chou-xiang-yu-da-gui-mo-ying-yong-building.md)
